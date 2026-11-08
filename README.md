@@ -48,7 +48,7 @@ Each section combines explanations with executable Python code to connect the un
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/quantum-computing-exploration.git
+git clone https://github.com/vsroshan/quantum-computing-exploration.git
 cd quantum-computing-exploration
 ```
 
